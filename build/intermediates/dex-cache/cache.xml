@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/iguest/AndroidStudioProjects/lifecounter/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/Users/iguest/AndroidStudioProjects/lifecounter/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.0_8f784d02e46a4bad62fd3f9096963575f23ae3e9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/iguest/AndroidStudioProjects/lifecounter/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/Users/iguest/AndroidStudioProjects/lifecounter/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_23e6620c5de13cc9bdae5410cfd0e861ee5c096d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/iguest/AndroidStudioProjects/lifecounter/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/Users/iguest/AndroidStudioProjects/lifecounter/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.0_ea946b552b49b5b7c7584cdf23e067bca3674933/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/iguest/AndroidStudioProjects/lifecounter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/Users/iguest/AndroidStudioProjects/lifecounter/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.0_87e73b5072ffa4d796bb3d33b8878d0ae53410ce/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/iguest/AndroidStudioProjects/lifecounter/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="/Users/iguest/AndroidStudioProjects/lifecounter/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_1488f9b86789e17caee5393ebfa085a45d8812e0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/iguest/AndroidStudioProjects/lifecounter/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c5a394aad2812a82cc07422ab92ca82bccc0f40e">
+        <dex dex="/Users/iguest/AndroidStudioProjects/lifecounter/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_7ec33ac88fe5f9b4e31ef1b7e8e2062f5471a8cd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/iguest/AndroidStudioProjects/lifecounter/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/Users/iguest/AndroidStudioProjects/lifecounter/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.0_285e2bd727b7477861f9b4214586ab55385e843e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/iguest/AndroidStudioProjects/lifecounter/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="/Users/iguest/AndroidStudioProjects/lifecounter/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.0_3e358bc12de7190d3287ee2669782b1ff229efb9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/iguest/AndroidStudioProjects/lifecounter/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/Users/iguest/AndroidStudioProjects/lifecounter/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_16baefef5e255c4ba699e9e6c79d660f90281f72/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/iguest/AndroidStudioProjects/lifecounter/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/Users/iguest/AndroidStudioProjects/lifecounter/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_b1070cbb344459b98d6d6d2a3ebea842da190159/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/iguest/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="/Users/iguest/AndroidStudioProjects/lifecounter/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.0_890ecdfa389ce5adf603cf39465c458bb1e41dc1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/iguest/AndroidStudioProjects/lifecounter/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/Users/iguest/AndroidStudioProjects/lifecounter/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.0_2ae42a883194d0bdbf353881352f15114f633937/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/iguest/AndroidStudioProjects/lifecounter/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/Users/iguest/AndroidStudioProjects/lifecounter/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.0_631125590147bfa44bac212cc4c90f624588d15a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/iguest/AndroidStudioProjects/lifecounter/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/Users/iguest/AndroidStudioProjects/lifecounter/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.0_22e19813ba4ea28f7cfacf98b00e168ec6420c70/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/iguest/AndroidStudioProjects/lifecounter/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="bb0e2a68285145b1c41f0b09ca7c6d6702ca4cf1">
+        <dex dex="/Users/iguest/AndroidStudioProjects/lifecounter/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_1e2224ba9dbbc117bedcee976e951aea3d0fadda/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/iguest/AndroidStudioProjects/lifecounter/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/Users/iguest/AndroidStudioProjects/lifecounter/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_4bb79441eb163cacd3a351476e6ccbcea88cfc6d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/iguest/AndroidStudioProjects/lifecounter/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/Users/iguest/AndroidStudioProjects/lifecounter/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.0_139861c4e964701b50e1859172f9f7a62a982ad1/classes.dex" />
+    </item>
+
+</items>
