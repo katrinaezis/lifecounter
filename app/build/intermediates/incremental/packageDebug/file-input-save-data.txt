@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Wed Jan 25 15:23:29 PST 2017
+#Wed Jan 25 15:37:04 PST 2017
 210.set=ANDROID_RESOURCE
 14.set=ANDROID_RESOURCE
 180.file=/Users/iguest/AndroidStudioProjects/lifecounter/app/build/intermediates/res/resources-debug.ap_/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml

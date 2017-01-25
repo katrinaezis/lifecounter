@@ -1,4 +1,4 @@
-#Wed Jan 25 15:23:29 PST 2017
+#Wed Jan 25 15:37:04 PST 2017
 base.0=/Users/iguest/AndroidStudioProjects/lifecounter/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_1e2224ba9dbbc117bedcee976e951aea3d0fadda
 renamed.1=classes2.dex
 renamed.0=classes.dex

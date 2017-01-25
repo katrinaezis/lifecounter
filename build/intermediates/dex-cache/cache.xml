@@ -52,7 +52,7 @@
         jumboMode="true"
         optimize="true"
         revision="24.0.1"
-        sha1="c5a394aad2812a82cc07422ab92ca82bccc0f40e">
+        sha1="692ee19c302194b5393bfeda7ede743dfb620923">
         <dex dex="/Users/iguest/AndroidStudioProjects/lifecounter/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_7ec33ac88fe5f9b4e31ef1b7e8e2062f5471a8cd/classes.dex" />
     </item>
     <item
@@ -133,7 +133,7 @@
         jumboMode="true"
         optimize="true"
         revision="24.0.1"
-        sha1="bb0e2a68285145b1c41f0b09ca7c6d6702ca4cf1">
+        sha1="b30a72607011fb209dfb7bfa48f1aa96548fbc24">
         <dex dex="/Users/iguest/AndroidStudioProjects/lifecounter/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_1e2224ba9dbbc117bedcee976e951aea3d0fadda/classes.dex" />
     </item>
     <item
